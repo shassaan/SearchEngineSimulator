@@ -1,0 +1,2 @@
+# SearchEngineSimulator
+This is a Simulation of a search engine that searches a number you enter from three different data banks "Silver", "Platinum"  and "Gold" in two modes if you select mode 1 this engine will find the number that tells you the location and will stop and if you select mode it will simultaneously search the number and in meantime will tell you the location and number this is implemented using multithreading, delegates, locking concepts in c#.Form1.cs is the main file.
